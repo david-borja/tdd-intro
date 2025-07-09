@@ -1,6 +1,6 @@
 # Useful commands
 
-course: [text](https://www.youtube.com/watch?v=_t9l2TwGioc)
+[course](https://www.youtube.com/watch?v=_t9l2TwGioc)
 
 npm i -D vitest
 
